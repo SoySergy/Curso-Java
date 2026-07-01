@@ -1,6 +1,6 @@
 package operadores;
 
-public class operadoresaritmeticos {
+public class operadoresaritmeticosydeasignacion {
     public static void main(String[] args) {
 
         // Operadores Aritmeticos
